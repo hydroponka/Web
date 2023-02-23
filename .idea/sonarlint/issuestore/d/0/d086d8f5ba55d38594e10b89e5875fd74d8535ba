@@ -1,0 +1,12 @@
+
+g	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×»â­ç0
+™
+java:S1130!"|Remove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from constructor's body.(Í“¥Š8›¼â­ç0
+{
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¥¼â­ç0
+{
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ª¼â­ç0
+{
+java:S2142N"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8­¼â­ç0
+N
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8º¼â­ç0
